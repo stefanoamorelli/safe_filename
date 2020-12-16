@@ -1,5 +1,5 @@
 name: safe_filename
-description: Dart package to strip reserved characters from a filename
+description: Dart package to strip reserved characters from a filename (beta)
 version: 0.0.1
 homepage: https://github.com/2n-1/safe_filename
 
